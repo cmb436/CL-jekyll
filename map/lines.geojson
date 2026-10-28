@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "lines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"Name":"Migration","Date":1941,"Description":null},"geometry":{"type":"LineString","coordinates":[[-77.347034549853916,34.693027862344628],[-77.250447551485067,34.717384741891394],[-77.250447551485067,34.717384741891394],[-77.250447551485067,34.717384741891394],[-77.250447551485067,34.717384741891394],[-77.250447551485067,34.717384741891394]]}},
+{"type":"Feature","properties":{"Name":"Migration","Date":1941,"Description":null},"geometry":{"type":"LineString","coordinates":[[-77.347627108126147,34.692053438013538],[-77.486285743821327,34.663790142820048]]}},
+{"type":"Feature","properties":{"Name":"Migration","Date":1941,"Description":null},"geometry":{"type":"LineString","coordinates":[[-77.347813400741202,34.692496010434311],[-77.4357628034969,34.753896239749821]]}}
+]
+}

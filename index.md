@@ -17,10 +17,10 @@ Camp Lejeune’s internal geography also reflects how wartime mobilization opera
 
 Tracing the map outwards reveals where the dispossessed population landed. When the hundreds of families were forced out in 1941, many simply settled along the base’s northern and western borders. Displaced populations were concentrated along major access roads and rail lines, rapidly expanding edge communities like Verona, Kellumtown, Sneads Ferry, and Jacksonville. Within the resettled population, racial and economic patterns are recurring. Displaced white landowners with greater financial capital would buy farmland along transit corridors closer to Verona, or move into Jacksonville where they might participate in the wartime service academy. Black landowners and displaced tenant farmers were disproportionately channeled into rural communities such as Kellumtown near Hubert.
 
-![a short caption](images/CLsign.jpg)
+![A sign briefly introducing the military base.](images/CLsign.jpg)
 
-![a short caption](images/CLpostcard.jpeg)
+![A postcard from 1944 capturing a headquarters building.](images/CLpostcard.jpeg)
 
-![a short caption](images/NConslowcounty1911.jpg)
+![A map of Onslow County in 1911 prior to the government claimed land via eminent domain for the construction of Camp Lejeune.](images/NConslowcounty1911.jpg)
 
-![a short caption](images/SneadsFerryboy.jpg)
+![A young boy with a gill net, fishing in the New River basin.](images/SneadsFerryboy.jpg)

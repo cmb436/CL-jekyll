@@ -19,7 +19,7 @@ Tracing the map outwards reveals where the dispossessed population landed. When 
 
 ![a short caption](images/CLsign.jpg)
 
-![a short caption](images/CLpostcard.jpg)
+![a short caption](images/CLpostcard.jpeg)
 
 ![a short caption](images/NConslowcounty1911.jpg)
 

@@ -13,10 +13,10 @@ In the spring of 1941, the United States federal government utilized eminent dom
 
 My primary source for this essay were articles and archival sources located during research. Many sources came either from the U.S. Marine Corps, or were public documents published by local communities.
 
-##Methodology
-
 ## What my map cannot show
 
 One paragraph on what is missing.
+
+## Image
 
 ![This map shows Onslow County in 2011, prior to the construction of Camp Lejeune. Communities such as Marines, Duckcreek, and Gillett – to name a few – are present and included. These communities would later on be disrupted and diverted elsewhere as the boundaries of the Marine Corps base were set.](images/NConslowcounty1911.jpg)

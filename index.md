@@ -4,9 +4,11 @@ layout: default
 
 {% include nav.html %}
 
+[Read the essay](essay.html)
+
 # Camp Lejeune, Interconnected
 
-A spatial history of your place and the places it was tied to.
+A spatial history of Camp Lejeune and how it's history disrupted the fabric of Onslow County and the New River basin.
 
 ## The Map
 
